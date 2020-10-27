@@ -1,0 +1,13 @@
+C:\Users\mirelego\Documents\GitHub\labb\bin\Debug\netcoreapp3.1\labb.exe
+C:\Users\mirelego\Documents\GitHub\labb\bin\Debug\netcoreapp3.1\labb.deps.json
+C:\Users\mirelego\Documents\GitHub\labb\bin\Debug\netcoreapp3.1\labb.runtimeconfig.json
+C:\Users\mirelego\Documents\GitHub\labb\bin\Debug\netcoreapp3.1\labb.runtimeconfig.dev.json
+C:\Users\mirelego\Documents\GitHub\labb\bin\Debug\netcoreapp3.1\labb.dll
+C:\Users\mirelego\Documents\GitHub\labb\bin\Debug\netcoreapp3.1\labb.pdb
+C:\Users\mirelego\Documents\GitHub\labb\obj\Debug\netcoreapp3.1\labb.csprojAssemblyReference.cache
+C:\Users\mirelego\Documents\GitHub\labb\obj\Debug\netcoreapp3.1\labb.AssemblyInfoInputs.cache
+C:\Users\mirelego\Documents\GitHub\labb\obj\Debug\netcoreapp3.1\labb.AssemblyInfo.cs
+C:\Users\mirelego\Documents\GitHub\labb\obj\Debug\netcoreapp3.1\labb.csproj.CoreCompileInputs.cache
+C:\Users\mirelego\Documents\GitHub\labb\obj\Debug\netcoreapp3.1\labb.dll
+C:\Users\mirelego\Documents\GitHub\labb\obj\Debug\netcoreapp3.1\labb.pdb
+C:\Users\mirelego\Documents\GitHub\labb\obj\Debug\netcoreapp3.1\labb.genruntimeconfig.cache
